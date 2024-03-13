@@ -83,14 +83,14 @@ endmodule
  ```
  
 **Truthtable**
-![truth table](<../ep1 truth.png>)
 
+![truth table](<ep1 truth.png>)
 
 **RTL realization Output:** 
-![Logic](<../ep1 logic dia.png>)
+![logic](<ep1 logic dia.png>)
 
 **Waveform:**
-![wave](<../ep 1 wave.png>)
+![wave](<ep 1 wave.png>)
 
 **Result:**
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
