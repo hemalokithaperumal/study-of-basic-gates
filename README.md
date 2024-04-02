@@ -90,7 +90,7 @@ endmodule
 ![logic](<ep1 logic dia.png>)
 
 **Waveform:**
-
+![wave](wave.png)
 **Result:**
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
 
